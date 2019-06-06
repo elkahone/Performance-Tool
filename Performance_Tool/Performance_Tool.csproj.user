@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>E:\Deploy\NewDeploy\|C:\Users\kasia\Desktop\MySetupFile\|E:\Deploy\Apps\|E:\Deploy\App\|E:\Deploy\MyApp\</PublishUrlHistory>
+    <InstallUrlHistory>\\grafton.local\GRCEEDFS1\GR-PL_UserData\k.kucharska\Downloads\App\|\\grafton.local\GRCEEDFS1\GR-PL_UserData\|\\grafton.local\GRCEEDFS1\|\\grafton.local\GRCEE\|\\grafton.local\greee\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2\</ReferencePath>
+  </PropertyGroup>
+</Project>
