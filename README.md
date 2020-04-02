@@ -1,6 +1,6 @@
 # Performance-Tool
 
-It gives possibility to save toy daily work with many details to one toll. If you are working on different tools and you want to have you work saved in one place. After some customization it should be a great solution to save and measure you work performance.
+It gives possibility to save daily work with many details using one tool. If you are working on different tools and you want to have you work saved in one place. This is it.  After some customization it should be a great solution to save and measure you work performance.
 Howe its work?
 - create a ticket in you service tool
 - give the details of this ticket in to PT (Performance Tool).
